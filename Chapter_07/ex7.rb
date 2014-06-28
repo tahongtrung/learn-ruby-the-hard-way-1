@@ -1,5 +1,5 @@
 #!/usr/bin/env ruby
-# extra credit answers in ex7x1.rb
+# extra credit answers in my_ex7.rb
 puts 'Mary had a little lamb.'
 puts 'Its fleece was white as %s.' % 'snow'
 puts 'And everywhere that Mary went.'
