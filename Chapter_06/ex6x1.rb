@@ -9,7 +9,8 @@ binary = 'binary'
 do_not = 'don\'t'
 # using string interpolation to insert variable values into
 # the string
-y = "Those who know #{binary} and those who #{do_not}." #  2 strings inside a string
+#  2 strings inside a string
+y = "Those who know #{binary} and those who #{do_not}."
 
 # printing the value for x
 puts x
@@ -37,4 +38,5 @@ e = 'a string with a right side.'
 # printing the value of the local variables w and e added together
 puts w + e
 
-# 4 - Adding two strings together results in combining the two strings thus creating a longer string.
+# 4 - Adding two strings together results in combining the two
+# strings thus creating a longer string.

@@ -14,5 +14,3 @@ puts tabby_cat
 puts persian_cat
 puts backslash_cat
 puts fat_cat
-
-
