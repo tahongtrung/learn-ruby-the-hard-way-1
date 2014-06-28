@@ -15,7 +15,8 @@ puts 'Roosters', 100.0 - (25.0 * 3.0) % 4.0
 # this line will print out the given string
 # this line didn't need any ()'s to match the given result
 # print the result of the calculation on the next line
-puts 'Now I will count the eggs:', 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
+puts 'Now I will count the eggs:'
+puts 3.0 + 2.0 + 1.0 - 5.0 + 4.0 % 2.0 - 1.0 / 4.0 + 6.0
 # this line will print out the given string
 # this line didn't need any ()'s to match the given result
 # print the result of the calculation on the next line
