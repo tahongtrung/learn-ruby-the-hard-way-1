@@ -1,0 +1,7 @@
+Style/FormatString:
+  EnforcedStyle: percent
+  SupportedStyles:
+    – format
+    – sprintf
+    – percent
+
