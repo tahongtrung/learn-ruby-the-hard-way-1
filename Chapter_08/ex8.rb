@@ -11,3 +11,4 @@ puts formatter % [
   "But it didn't sing.",
   'So I said goodnight.'
 ]
+puts "test %.2f" % [2.5]
